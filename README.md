@@ -9,9 +9,10 @@ I'm a passionate self-taught java developer. I built my projects from the ground
 
 #
 
-📬 reach me: [email](mailto:celsius.dev@protonmail.com)
+- 📬 reach me: [email](mailto:celsius.dev@protonmail.com)
 <br>
-&#x1F427; linux enthusiast
+
+- &#x1F427; linux enthusiast
 </p>
 
 ---
