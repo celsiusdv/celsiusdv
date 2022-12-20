@@ -37,7 +37,7 @@ I'm a passionate self-taught java developer. I built my projects from the ground
 <div>
     <h2 style="color: #44AEFB">📊 Statistics</h2>
     <img alt="celsiusdv github stats" align="right"
-    src="https://github-readme-stats-celsiusdv.vercel.app/api?username=celsiusdv&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=tokyonight"/>
+    src="https://github-readme-stats-celsiusdv.vercel.app/api?username=celsiusdv&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight"/>
     <img alt="celsiusdv top-langs" align="left"
     src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=celsiusdv&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&theme=radical"/>
 </div>
