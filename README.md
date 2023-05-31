@@ -25,7 +25,7 @@
 
 ### Most used languages
 <img alt="celsiusdv top-langs"
-src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=celsiusdv&layout=compact&hide)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&theme=radical"/>
+src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=celsiusdv&layout=compact&hide)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&theme=tokyonight"/>
 
 <h2 align="left" style="color: #61dafb">Languages and Tools:</h2>
 <div align="left">
