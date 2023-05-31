@@ -8,7 +8,7 @@
     </a>
 </p>
 
-## Currentnly using:
+## Currently using:
 
 - Java
 - Spring-boot
