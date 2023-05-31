@@ -30,7 +30,7 @@ src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=ce
 <h2 align="left" style="color: #61dafb">Languages and Tools:</h2>
 <div align="left">
     <img  alt="Java" height="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
-    <img  alt="Spring-boot" height="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=A3Ulk2RcONKs&format=png"/>
+    <img  alt="Spring-boot" height="35px" style="padding-right:10px;" src="https://spring.io/img/projects/spring-boot.svg"/>
     <img  alt="HTML" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
     <img  alt="Css" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
     <img  alt="Typescript" height="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
