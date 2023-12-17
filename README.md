@@ -2,11 +2,6 @@
 <h3 align="center" style="color: #61dafb;">
     Hey there, I'm Ronald<img src="assets/welcome.gif" width="28"/>
 </h3>
-<p align="center">
-    <a href="#">
-        <img src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1217&q=80" height="75%" width="75%" />
-    </a>
-</p>
 
 ## Currently using:
 
