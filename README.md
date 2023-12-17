@@ -7,12 +7,12 @@
 
 - Java
 - Spring-boot
-- Angular (typescript)
+- React (typescript)
 
 ### Workspace:
-- Fedora Linux (operative system)
+- Debian Linux (operative system)
 <br>
-<a href="https://archlinux.org/"><img src="assets/fedora.png" height="30%" width="30%"></a>
+<a href="https://www.debian.org/"><img src="assets/debian.png" height="30%" width="30%"></a>
 
 --- 
 ### Stats
