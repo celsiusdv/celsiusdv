@@ -12,7 +12,7 @@
 ### Workspace:
 - Debian Linux (operative system)
 <br>
-<a href="https://www.debian.org/"><img src="assets/debian.png" height="30%" width="30%"></a>
+<a href="https://www.debian.org/"><img src="assets/debian.svg" height="30%" width="30%"></a>
 
 --- 
 ### Stats
